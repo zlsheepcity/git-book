@@ -29,3 +29,9 @@ git add .
 git commit -m "all headers are similar"
 git push
 ```
+
+## Info
+
+token  
+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
+
